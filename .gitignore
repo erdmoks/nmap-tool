@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+last_scan.sh
+scan.txt
+scan.xml
+scan.gnmap
+scan_results.*
+.DS_Store
