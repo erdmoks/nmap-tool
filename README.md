@@ -112,6 +112,3 @@ nmap -sS -oA scan_results 192.168.1.1
 
 ---
 
-## Lisans
-
-MIT © erdmoks
